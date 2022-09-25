@@ -1,0 +1,11 @@
+2+3
+let name = 'Manohar'
+name
+var arr = ['ere',34,213.34,'34',43]
+arr
+name.toUpperCase()
+name.bold()
+name.anchor()
+name.big();
+name.constructor()
+name.fontcolor('red')
